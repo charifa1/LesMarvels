@@ -6,6 +6,7 @@
  * @param url l'end-point
  * @return {Promise<json>}
  */
+
 export const getData = async (url) => {
     // A Compléter
 }
